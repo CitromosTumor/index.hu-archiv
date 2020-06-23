@@ -5,3 +5,9 @@ Későbbiekben a cél, hogy bárki letölthesse és terjeszthesse ezeket a cikke
 
 A helyzet:
 https://web.archive.org/web/20200623194247/https://index.hu/szolgalati-kozlemeny/2020/06/21/az_index_szerkesztosege_veszelyben_van/
+
+## Hogyan?
+
+##### Az archiválásra több opció is van, ezek közül a legtámogatottabb:
+
+  - Linkek HTML-formában lementése, később idővel ezek PDF formátummá alakítása pdfkit-tel
