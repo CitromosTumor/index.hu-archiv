@@ -10,4 +10,4 @@ https://web.archive.org/web/20200623194247/https://index.hu/szolgalati-kozlemeny
 
 ##### Az archiválásra több opció is van, ezek közül a legtámogatottabb:
 
-  - Linkek HTML-formában lementése, később idővel ezek PDF formátummá alakítása pdfkit-tel
+  - Cikkek HTML-formában lementése, idővel ezek PDF formátummá alakítása.
